@@ -1,4 +1,4 @@
-# React Enlightenment
+# React Enlightenment hahaha
 
 Written by [Cody Lindley](http://codylindley.com/) sponsored by — [Frontend Masters](https://frontendmasters.com/)
 
